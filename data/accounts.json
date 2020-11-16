@@ -1,0 +1,20 @@
+{
+    "0001": { 
+        "name": "Main Account",
+        "type": "Current Account",
+        "balance": 7376.78,
+        "interestRate": 0.01
+    },
+    "0002": { 
+        "name": "Holiday Fund",
+        "type": "2 Year Fixed Saver",
+        "balance": 4000,
+        "interestRate": 2.00
+    },
+    "0003": { 
+        "name": "Secret Account",
+        "type": "ISA",
+        "balance": 10500,
+        "interestRate": 1.10
+    }
+}

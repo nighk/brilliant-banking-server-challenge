@@ -1,0 +1,39 @@
+{
+    "0001": [
+        { "type": "out", "dateTime": "2020-10-25T12:00:00Z", "amount": 75, "accountBalance": 7376.78, "title": "NPower", "reference": "Monthly Electric Bill"},
+        { "type": "out", "dateTime": "2020-10-20T09:00:00Z", "amount": 25.67, "accountBalance": 5604.10, "title": "Severn Trent", "reference": "Monthly Water Bill"},
+        { "type": "in", "dateTime": "2020-10-21T10:45:47Z", "amount": 2347.68, "accountBalance": 7951.78, "title": "Capgemini", "reference": "Salary"},
+        { "type": "in", "dateTime": "2020-10-01T00:00:00Z", "amount": 0.37, "accountBalance": 5721.02, "title": "Interest", "reference": "At 0.01% APR"},
+        { "type": "out", "dateTime": "2020-10-13T12:31:57Z", "amount": 33.57, "accountBalance": 5629.77, "title": "Pizza Hut", "reference": "Lunch with colleagues :-)"},
+        { "type": "out", "dateTime": "2020-10-08T18:23:43Z", "amount": 57.68, "accountBalance": 5663.34, "title": "Tesco", "reference": "Shopping, not sure why this is only once a month..."},
+        { "type": "out", "dateTime": "2020-10-22T00:00:00Z", "amount": 500, "accountBalance": 7451.78, "title": "Savings Account", "reference": "Regular Savings Deposit"},
+
+        { "type": "out", "dateTime": "2020-09-25T12:00:00Z", "amount": 75, "accountBalance": 5732.32, "title": "NPower", "reference": "Monthly Electric Bill"},
+        { "type": "out", "dateTime": "2020-09-20T09:00:00Z", "amount": 25.67, "accountBalance": 3959.64, "title": "Severn Trent", "reference": "Monthly Water Bill"},
+        { "type": "in", "dateTime": "2020-09-21T10:45:47Z", "amount": 2347.68, "accountBalance": 6307.22, "title": "Capgemini", "reference": "Salary"},
+        { "type": "in", "dateTime": "2020-09-01T00:00:00Z", "amount": 0.56, "accountBalance": 4050.78, "title": "Interest", "reference": "At 0.01% APR"},
+        { "type": "out", "dateTime": "2020-09-26T12:51:01Z", "amount": 11.67, "accountBalance": 5720.65, "title": "KFC", "reference": "Lunch by myself :-("},
+        { "type": "out", "dateTime": "2020-09-06T21:47:09Z", "amount": 65.47, "accountBalance": 3985.31, "title": "Tesco", "reference": "Shopping, not sure why this is only once a month..."},
+        { "type": "out", "dateTime": "2020-09-22T00:00:00Z", "amount": 500, "accountBalance": 5807.32, "title": "Savings Account", "reference": "Regular Savings Deposit"},
+
+        { "type": "out", "dateTime": "2020-08-25T12:00:00Z", "amount": 75, "accountBalance": 4050.22, "title": "NPower", "reference": "Monthly Electric Bill"},
+        { "type": "out", "dateTime": "2020-08-20T09:00:00Z", "amount": 25.67, "accountBalance": 2343.01, "title": "Severn Trent", "reference": "Monthly Water Bill"},
+        { "type": "in", "dateTime": "2020-08-21T10:45:47Z", "amount": 2347.68, "accountBalance": 4690.69, "title": "Capgemini", "reference": "Salary"},
+        { "type": "in", "dateTime": "2020-08-01T00:00:00Z", "amount": 0.45, "accountBalance": 2368.68, "title": "Interest", "reference": "At 0.01% APR"},
+        { "type": "out", "dateTime": "2020-08-21T19:33:07Z", "amount": 65.47, "accountBalance": 4625.22, "title": "Tesco", "reference": "Shopping, not sure why this is only once a month..."},
+        { "type": "out", "dateTime": "2020-08-22T00:00:00Z", "amount": 500, "accountBalance": 4125.22, "title": "Savings Account", "reference": "Regular Savings Deposit"}
+    ],
+    "0002": [
+        { "type": "out", "dateTime": "2020-10-25T10:45:23Z", "amount": 1000, "accountBalance": 4000, "title": "Withdrawral", "reference": "Ran out of money :-/"},
+        { "type": "in", "dateTime": "2020-10-22T00:00:00Z", "amount": 500, "accountBalance": 5000, "title": "Deposit", "reference": "Regular Savings Deposit"},
+        { "type": "in", "dateTime": "2020-09-22T00:00:00Z", "amount": 500, "accountBalance": 4500, "title": "Deposit", "reference": "Regular Savings Deposit"},
+        { "type": "in", "dateTime": "2020-08-22T00:00:00Z", "amount": 500, "accountBalance": 4000, "title": "Deposit", "reference": "Regular Savings Deposit"}
+    ],
+    "0003": [
+        { "type": "in", "dateTime": "2020-10-22T00:00:00Z", "amount": 500, "accountBalance": 12500, "title": "Deposit", "reference": "Secret Savings Deposit"},
+        { "type": "in", "dateTime": "2020-10-022:32:29Z", "amount": 2000, "accountBalance": 10500, "title": "Withdrawral", "reference": "Whoa what did I spend this much on!"},
+        { "type": "in", "dateTime": "2020-09-22T00:00:00Z", "amount": 500, "accountBalance": 13000, "title": "Deposit", "reference": "Secret Savings Deposit"},
+        { "type": "out", "dateTime": "2020-09-25T14:23:22Z", "amount": 1000, "accountBalance": 12000, "title": "Withdrawral", "reference": "Nothing dodgy going on here honest"},
+        { "type": "in", "dateTime": "2020-08-22T00:00:00Z", "amount": 500, "accountBalance": 12500, "title": "Deposit", "reference": "Secret Savings Deposit"}
+    ]
+}

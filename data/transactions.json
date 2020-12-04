@@ -24,16 +24,16 @@
         { "type": "out", "dateTime": "2020-08-22T00:00:00Z", "amount": 500, "accountBalance": 4125.22, "title": "Savings Account", "reference": "Regular Savings Deposit"}
     ],
     "0002": [
-        { "type": "out", "dateTime": "2020-10-25T10:45:23Z", "amount": 1000, "accountBalance": 4000, "title": "Withdrawral", "reference": "Ran out of money :-/"},
+        { "type": "out", "dateTime": "2020-10-25T10:45:23Z", "amount": 1000, "accountBalance": 4000, "title": "Withdrawal", "reference": "Ran out of money :-/"},
         { "type": "in", "dateTime": "2020-10-22T00:00:00Z", "amount": 500, "accountBalance": 5000, "title": "Deposit", "reference": "Regular Savings Deposit"},
         { "type": "in", "dateTime": "2020-09-22T00:00:00Z", "amount": 500, "accountBalance": 4500, "title": "Deposit", "reference": "Regular Savings Deposit"},
         { "type": "in", "dateTime": "2020-08-22T00:00:00Z", "amount": 500, "accountBalance": 4000, "title": "Deposit", "reference": "Regular Savings Deposit"}
     ],
     "0003": [
-        { "type": "in", "dateTime": "2020-10-22T00:00:00Z", "amount": 500, "accountBalance": 12500, "title": "Deposit", "reference": "Secret Savings Deposit"},
-        { "type": "in", "dateTime": "2020-10-022:32:29Z", "amount": 2000, "accountBalance": 10500, "title": "Withdrawral", "reference": "Whoa what did I spend this much on!"},
+        { "type": "in", "dateTime": "2020-10-22T00:00:00Z", "amount": 500, "accountBalance": 10500, "title": "Deposit", "reference": "Secret Savings Deposit"},
+        { "type": "out", "dateTime": "2020-10-022:32:29Z", "amount": 2000, "accountBalance": 10000, "title": "Withdrawal", "reference": "Whoa what did I spend this much on!"},
         { "type": "in", "dateTime": "2020-09-22T00:00:00Z", "amount": 500, "accountBalance": 13000, "title": "Deposit", "reference": "Secret Savings Deposit"},
-        { "type": "out", "dateTime": "2020-09-25T14:23:22Z", "amount": 1000, "accountBalance": 12000, "title": "Withdrawral", "reference": "Nothing dodgy going on here honest"},
+        { "type": "out", "dateTime": "2020-09-25T14:23:22Z", "amount": 1000, "accountBalance": 12000, "title": "Withdrawal", "reference": "Nothing dodgy going on here honest"},
         { "type": "in", "dateTime": "2020-08-22T00:00:00Z", "amount": 500, "accountBalance": 12500, "title": "Deposit", "reference": "Secret Savings Deposit"}
     ]
 }

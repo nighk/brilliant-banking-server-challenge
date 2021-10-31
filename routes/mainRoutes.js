@@ -61,7 +61,7 @@ export default (app, passport) =>
         if(randomInt === 0) {
             res.status(500).send("Unknown server error occured");
         } else {
-            const data = await fsPromises.readFile("./data/accounts.json", "utf-8");
+            const data = JSON.parse(await fsPromises.readFile("./data/accounts.json", "utf-8"));
             res.send(data);
         }
     });
